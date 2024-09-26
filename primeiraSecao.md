@@ -1,7 +1,7 @@
 # _Parte 1_ 
 
 
-## ***COMO FAZER METODOLOGIAS ÁGEIS - SCRUM E KANBAN NA PRÁTICA ***
+## *** COMO FAZER METODOLOGIAS ÁGEIS - SCRUM E KANBAN NA PRÁTICA ***
 ### *Framework cynefin*
 
 > Ajuda na tomada de decisões ao classificar problemas em cinco domínios, orientando as abordagens adequadas para cada situação
@@ -18,7 +18,7 @@
 2. Categoriza
 3. Responde
 
-*_ OBS: QUANDO PROCEDIMENTOS E PROCESSOS NÃO SEGUEM OS PADRÕES, O CENÁRIO SIMPLES PODE ACABAR VIRANDO UM CAÓTICO._*
+**_ OBS: QUANDO PROCEDIMENTOS E PROCESSOS NÃO SEGUEM OS PADRÕES, O CENÁRIO SIMPLES PODE ACABAR VIRANDO UM CAÓTICO. _**
 
 #### *Complicado:* O conhecimento e o entendimento estão distante, dessa forma é necessário que tenha um especialista para junta-los e evitar decisões erradas.
 
@@ -33,7 +33,7 @@
 2. Sente
 3. Responde
 
-*_ OBS: Quando os testes forem feitos e uma solução for aprovada, a situação COMPLEXA passará a ser COMPLICADA._*
+**_OBS: Quando os testes forem feitos e uma solução for aprovada, a situação COMPLEXA passará a ser COMPLICADA._**
 
 #### *Caótico:* é o cenário que indica quando a situação está em crise.
 
@@ -41,7 +41,7 @@
 2. Sente
 3. Responde
 
-*_ Ex: Quando o sistema vai cair do nada e precisa de uma solução urgente._*
+**_Ex: Quando o sistema vai cair do nada e precisa de uma solução urgente._**
 
 #### *Desordem: Quando não está dentro de nenhum dos outros 4, precisa-se estudar cada parte do problema e ordenar de acordo com a necessidade atual.*
 
@@ -84,7 +84,7 @@ DESORDEM
 3. COLABORAÇÃO COM O CLIENTE MAIS QUE NEGOCIAÇÃO DE CONTEXTO;
 4. RESPONDER A MUDANÇA MAIS QUE SEGUIR UM PLANO.
 
-**12 Princípios: **
+**12 Princípios:**
 
 1. SATISFAÇA O CONSUMIDOR;
 2. CONFIE E APOIE;
@@ -163,14 +163,14 @@ Ser Ágil > Mindset 🧠 > Valores 💡 > Princípios 📜> Prático 🛠️ > F
 2. Inspeção: Os processos e os resultados devem ser frequentemente inspecionados para detectar desvios ou problemas.
 3. Adaptação: Quando se encontra desvios ou variações fora dos limites aceitáveis, o processo deverá ser reajustados para evitar ou minimizar desvios futuros.
 
-***Eventos que contribuem para os processos de inspeção e adaptação: ***
+***Eventos que contribuem para os processos de inspeção e adaptação:***
 
 * reuniões de planejamento de sprint;
 * reunião diária; 
 * reunião de revisão da sprint;
 * retrospectiva da sprint.
 
-***Papéis e Responsabilidades: ***
+***Papéis e Responsabilidades:***
 
 
 1. Scrum Master🧑‍🏫:
@@ -187,7 +187,7 @@ Ser Ágil > Mindset 🧠 > Valores 💡 > Princípios 📜> Prático 🛠️ > F
    * time pequeno para ser ágil e grande o bastante para concluir a Sprint.
 
 
-***SPRINT, o coração do scrum: ***
+***SPRINT, o coração do scrum:***
 
 *time box*?
 * é um tempo máximo pré-definido fixo que pode ser encurtado com a entrega dos trabalhos mas nunca aumentado.
@@ -207,29 +207,29 @@ OQUE SERIA UMA *SPRINT*?
 As sprints possuem todos os 4 eventos, além de que cada sprint tem sua data de início e de término.
 
 
-##### *** Sprint planning: ***
+##### ***Sprint planning:***
 * Planejamento da sprint;
 * interações planejadas;
 * cria o sprint back log;
 * 4 semanas geralmente.
 
-##### *** daily scrum: ***
+##### ***daily scrum:***
 * Reuniões diárias (rotineira);
 * no máximo 15 minutos;
 * possui um objetivo que é saber como está indo as atividades.
 
-##### *** Sprint review: ***
+##### ***Sprint review:***
 * foca no produto;
 * inspenção e adaptação.
 
-##### *** Sprint retrospective: ***
+##### ***Sprint retrospective:***
 * foca no processo;
 * oque foi bom ou ruim;
 * busca melhoria;
 * reunião de no máximo 3 horas.
 
 
-*** Artefatos do scrum: ***
+***Artefatos do scrum:***
 
 * Backlog do produto:
   * contém as funcionalidades desejadas de um produto.
@@ -242,12 +242,12 @@ As sprints possuem todos os 4 eventos, além de que cada sprint tem sua data de 
 * Buandown charts.
 
 
-*** User Stories e BackLog: ***
+***User Stories e BackLog:***
 
 **Backlog = lista de tarefas, que prioriza as mais críticas.;
 **
 
-**User Stories: Os requisitos ou oque o cliente considera como valioso.**
+*User Stories: Os requisitos ou oque o cliente considera como valioso.*
 
 *Cartão*:
 * Qual é o objetivo do cliente/usuário?
@@ -292,7 +292,7 @@ As sprints possuem todos os 4 eventos, além de que cada sprint tem sua data de 
 * -> - esforço($) e + benefício = faça;
 * -> - esforço($) e - benefício = evitar fazer.
 
-***Planejamento da Sprint: ***
+***Planejamento da Sprint:***
 
 Entrada > oque/como > Saída
 
@@ -320,11 +320,11 @@ Planning poker: baseado na sequência de fibonacci, auxilia na estimativa de uma
 
 O cálculo da velocidade é feito dividindo pelo total de sprints, o indicado é sempre ter entre 17 a 20 sprints.  ex: 200/20 = 10. 
 
-*** Definição de pronto: ***
+***Definição de pronto:***
 
 O pronto é quando finaliza o incremento do produto, e *todos* os requisitos foram atendidos.
 
-*** Revisando o incremento das Sprints: ***
+***Revisando o incremento das Sprints:***
 
 Timebox de 4 horas
   * product owner;
@@ -338,7 +338,7 @@ Tópicos debatidos:
 * recepção do feedback;
 * monitoramento do progresso do projeto.
 
-*** Avaliando processos na retrospectiva: ***
+***Avaliando processos na retrospectiva:***
 
 Timebox de 4 horas
   * product owner;
@@ -351,7 +351,7 @@ Tópicos debatidos:
 * como melhorar?
 * oque deve ser mantido para próxima sprint.
 
-*** Escalando Scrum: ***
+***Escalando Scrum:***
 
 **Scrum de Scrums**
 
@@ -445,13 +445,13 @@ Possui um tipo, um escopo opcional e uma descrição.
 
 ### *Alguns Tipos:*
 
-*fix: *corrige erros no código e está relacionado com a parte do PATCH.
+*fix:* corrige erros no código e está relacionado com a parte do PATCH.
   * fix(login): "corrigir erros de validação de senha" 
 
-*feat: *quando adiciona uma nova funcionalidade, ligado com a parte do MINOR.
+*feat:* quando adiciona uma nova funcionalidade, ligado com a parte do MINOR.
 * feat(api): "adicionar suporte para autenticação"
 
-*BREAKING CHANGE: *um commit que contém um rodapé chamado BREAKING CHANGE ou adicionar ! após o tipo indica que houve uma mudança importante, se relaciona com a parte MAJOR.
+*BREAKING CHANGE:* um commit que contém um rodapé chamado BREAKING CHANGE ou adicionar ! após o tipo indica que houve uma mudança importante, se relaciona com a parte MAJOR.
   * feat(auth)!: "alterar fluxo de login, removendo suporte a tokens antigos."
 * feat(auth): "modificar fluxo de autenticação
   
