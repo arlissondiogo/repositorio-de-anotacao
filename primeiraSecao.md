@@ -1,7 +1,7 @@
 # _Parte 1_ 
 
 
-## *** COMO FAZER METODOLOGIAS ÁGEIS - SCRUM E KANBAN NA PRÁTICA ***
+## ***COMO FAZER METODOLOGIAS ÁGEIS - SCRUM E KANBAN NA PRÁTICA***
 ### *Framework cynefin*
 
 > Ajuda na tomada de decisões ao classificar problemas em cinco domínios, orientando as abordagens adequadas para cada situação
@@ -18,7 +18,7 @@
 2. Categoriza
 3. Responde
 
-**_ OBS: QUANDO PROCEDIMENTOS E PROCESSOS NÃO SEGUEM OS PADRÕES, O CENÁRIO SIMPLES PODE ACABAR VIRANDO UM CAÓTICO. _**
+***OBS: QUANDO PROCEDIMENTOS E PROCESSOS NÃO SEGUEM OS PADRÕES, O CENÁRIO SIMPLES PODE ACABAR VIRANDO UM CAÓTICO.***
 
 #### *Complicado:* O conhecimento e o entendimento estão distante, dessa forma é necessário que tenha um especialista para junta-los e evitar decisões erradas.
 
@@ -33,7 +33,7 @@
 2. Sente
 3. Responde
 
-**_OBS: Quando os testes forem feitos e uma solução for aprovada, a situação COMPLEXA passará a ser COMPLICADA._**
+*OBS: Quando os testes forem feitos e uma solução for aprovada, a situação COMPLEXA passará a ser COMPLICADA.*
 
 #### *Caótico:* é o cenário que indica quando a situação está em crise.
 
@@ -41,8 +41,7 @@
 2. Sente
 3. Responde
 
-**_Ex: Quando o sistema vai cair do nada e precisa de uma solução urgente._**
-
+*Ex: Quando o sistema vai cair do nada e precisa de uma solução urgente.*
 #### *Desordem: Quando não está dentro de nenhum dos outros 4, precisa-se estudar cada parte do problema e ordenar de acordo com a necessidade atual.*
 
 ---
@@ -244,8 +243,7 @@ As sprints possuem todos os 4 eventos, além de que cada sprint tem sua data de 
 
 ***User Stories e BackLog:***
 
-**Backlog = lista de tarefas, que prioriza as mais críticas.;
-**
+**Backlog = lista de tarefas, que prioriza as mais críticas.**
 
 *User Stories: Os requisitos ou oque o cliente considera como valioso.*
 
